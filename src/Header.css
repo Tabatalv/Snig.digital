@@ -1,0 +1,16 @@
+.header{
+    height: 4rem;
+    position: sticky;
+    top: 0;
+}
+
+span, li{
+    font-family: "Source Sans 3";
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+li{
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: 400;
+}

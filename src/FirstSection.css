@@ -1,0 +1,39 @@
+.hero{
+    height: 38rem;
+}
+.my-title{
+    font-family: "Bilbo Swash Caps";
+    font-size: 9rem;
+    font-weight: 400;
+    line-height: 1.9;
+}
+.title, .grow-bussiness{
+    font-family: "Source Sans 3";
+    font-size: 5rem;
+    font-weight: 700;
+}
+.grow-bussiness{
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 18rem;
+    width: 14rem;
+    position: relative;
+    right: 35rem;
+    top: 12rem;
+    text-wrap: nowrap;
+}
+
+
+.bet{
+    margin-top: 13.7rem;
+    position: relative;
+    right: 19rem;
+    text-wrap: nowrap;
+}
+
+.for-your{
+    margin-top: 15rem;
+
+    margin-left: -26rem;
+}
