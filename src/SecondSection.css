@@ -1,0 +1,27 @@
+.who-we-are{
+    padding-top: 14rem;
+    height: 41rem;
+}
+
+.hidden-title span, .hidden-title{
+    font-family: "Great Vibes", serif;
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+.hidden-title{
+    font-family: "Source Sans 3", sans-serif;
+    height: 0;
+    overflow: hidden;
+}
+
+
+h5, .smaller-title{
+    font-size: 1.3rem;
+    height: 0;
+    overflow: hidden;
+}
+.smaller-title{
+    font-weight: 400;
+}
+

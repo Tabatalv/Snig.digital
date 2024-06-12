@@ -1,0 +1,28 @@
+.changing-color{
+    padding-top: 11rem;
+    
+}
+
+.cursive, .date{
+    font-family: "Great Vibes", serif;
+    font-size: 9rem;
+    font-weight: 400;
+}
+
+.minus-cursive{
+    font-family: "Great Vibes", serif;
+    font-size: 4rem;
+}
+
+.not-cursive{
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 1.3rem;
+    font-weight: 300;
+}
+.date{
+    font-size: 3rem;
+}
+
+.cursive, .not-cursive, .date, .minus-cursive{
+    color: white;
+}

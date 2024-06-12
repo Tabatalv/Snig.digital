@@ -4,9 +4,9 @@
     top: 0;
 }
 
-span, li{
+.logotype, li{
     font-family: "Source Sans 3";
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-weight: 700;
 }
 li{

@@ -5,7 +5,7 @@ export function Header() {
   return (
     <div className=' header container d-flex align-items-center justify-content-between text-light'>
         <div>
-            <span>Snig</span>
+            <span className='logotype'>Snig</span>
         </div>
     <nav className='navbar navbar-expand'>
        <ul className="ul navbar-nav mx-2">

@@ -22,7 +22,7 @@ export function FirstSection() {
   const textTitleLast = "for your brand".split(" ");
   
   return (
-    <div className='hero pt-5'>
+    <div className='hero pt-4'>
         
         <motion.div animate={isVisible ? "elementInView" : "notInView"} variants={variants} className='container d-flex align-items-baseline justify-content-flex-start text-light'>
           <div className='container d-flex' >{

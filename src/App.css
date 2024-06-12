@@ -1,10 +1,12 @@
-@font-face{
-    font-family: "Bilbo Swash Caps";
-    src: local("BilboSwashCaps-Regular"),
-    url("./fonts/BilboSwashCaps-Regular.ttf");
-}
+
 @font-face{
     font-family: "Source Sans 3";
     src: local("SourceSans3-Regular"),
     url("./fonts/SourceSans3-Regular.ttf");
+}
+
+@font-face{
+    font-family: "Great Vibes";
+    src: local("GreatVibes-Regular"),
+    url("./fonts/GreatVibes-Regular.ttf");
 }
